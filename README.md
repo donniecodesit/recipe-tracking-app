@@ -1,6 +1,3 @@
-# recipe-tracking-app
-Application built with React that allows you to list out and manage recipes with images of your choice!
-
 # Recipe Tracking Application
 This application allows users to view, manage, and list recipe ideas on a webpage with a temporary database, and includes form elements and images.
 This was built using JavaScript, React, and Test Driven Development. I worked on this during Week 7 of my Software Engineering Course at Thinkful.
